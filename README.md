@@ -3,5 +3,5 @@ Advanced course of IM department. In the course, we deal with data analysis rela
 
 Some slides of final presenataion:
 (Due to authority and privacy issues, only fews slides are shown in original language.)
-![image](Big-Data-Analysis/BDA Pics/BDA_1.png)
+![image](https://github.com/StanleyLin-NTU/Big-Data-Analysis/BDA Pics/BDA_1.png)
 
